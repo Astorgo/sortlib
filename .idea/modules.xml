@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/packaging-sortlib.iml" filepath="$PROJECT_DIR$/packaging-sortlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sortlib.iml" filepath="$PROJECT_DIR$/.idea/modules/sortlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sortlib_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sortlib_main.iml" group="sortlib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sortlib_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sortlib_test.iml" group="sortlib" />
     </modules>
   </component>
 </project>
